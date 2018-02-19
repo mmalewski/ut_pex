@@ -19,7 +19,7 @@
   "devDependencies": {
     "bittorrent-protocol": "^2.1.2",
     "standard": "*",
-    "tape": "^4.5.1"
+    "tape": "4.8.0"
   },
   "keywords": [
     "PEX",
